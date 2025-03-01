@@ -7,6 +7,7 @@ background-image: url("fondo.jpg");
   background-repeat: no-repeat;
   background-size: cover; 
 </head>
+    </style>
 <body>
     <center>
         <hr size="30" noshade color="blue">
